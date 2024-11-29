@@ -1,2 +1,3 @@
-# next-js
-📄 NextJS Study
+# Next.js Let's Go~
+
+### NextJS 14ver
